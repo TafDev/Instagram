@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'simple_form'
 gem "paperclip", "~> 5.0.0"
 gem "mini_magick"
+gem 'bootstrap-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
